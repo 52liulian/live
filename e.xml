@@ -18369,6 +18369,9 @@
 	<programme channel="咪咕足球" start="20251029140500 +0800" stop="20251029141500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251029141500 +0800" stop="20251029145000 +0800">
+		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -48729,6 +48732,9 @@
 	<programme channel="纯享4K" start="20251029135700 +0800" stop="20251029141200 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 漆画b7车马出行图</title>
 	</programme>
+	<programme channel="纯享4K" start="20251029141200 +0800" stop="20251029150000 +0800">
+		<title lang="zh">传承 第二季4K 第六集 流变</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60939,6 +60945,9 @@
 	<programme channel="newtv热播精选" start="20251029133400 +0800" stop="20251029141500 +0800">
 		<title lang="zh">03_前夜</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251029141500 +0800" stop="20251029144500 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60993,6 +61002,9 @@
 	<programme channel="newtv爱情喜剧" start="20251029132800 +0800" stop="20251029140800 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251029140800 +0800" stop="20251029145700 +0800">
+		<title lang="zh">41_锦心似玉</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61034,6 +61046,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251029125900 +0800" stop="20251029140700 +0800">
 		<title lang="zh">破千者之天下公敌</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251029140700 +0800" stop="20251029143700 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61266,6 +61281,9 @@
 	<programme channel="newtv军事评论" start="20251029134400 +0800" stop="20251029140600 +0800">
 		<title lang="zh">俄乌地面装甲新动向</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251029140600 +0800" stop="20251029142800 +0800">
+		<title lang="zh">印度航展上的五代机争锋</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61415,6 +61433,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251029133300 +0800" stop="20251029141300 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251029141300 +0800" stop="20251029153300 +0800">
+		<title lang="zh">工厂蛇患</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -61580,6 +61601,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251029133400 +0800" stop="20251029140400 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251029140400 +0800" stop="20251029145000 +0800">
+		<title lang="zh">45_长歌行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
